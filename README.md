@@ -1,4 +1,4 @@
-# Assembly-With-Aeryz
+# AssemblySamples
 Functions/programs written in Assembly
 
 # Build 
